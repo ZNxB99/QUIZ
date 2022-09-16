@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\TestBAI\bin\Debug\net6.0\TestBAI.exe
+C:\Users\MDT\Desktop\TestBAI\bin\Debug\net6.0\TestBAI.deps.json
+C:\Users\MDT\Desktop\TestBAI\bin\Debug\net6.0\TestBAI.runtimeconfig.json
+C:\Users\MDT\Desktop\TestBAI\bin\Debug\net6.0\TestBAI.dll
+C:\Users\MDT\Desktop\TestBAI\bin\Debug\net6.0\TestBAI.pdb
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.AssemblyInfo.cs
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.dll
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\refint\TestBAI.dll
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.pdb
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\TestBAI.genruntimeconfig.cache
+C:\Users\MDT\Desktop\TestBAI\obj\Debug\net6.0\ref\TestBAI.dll
